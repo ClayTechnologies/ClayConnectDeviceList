@@ -1,0 +1,8 @@
+[
+    {
+        "service": "github",
+        "class": "a",
+        "name": "Official",
+        "url": "https://raw.githubusercontent.com/ClayTechnologies/ClayConnectRepo/main/devices.json"
+    }
+]
