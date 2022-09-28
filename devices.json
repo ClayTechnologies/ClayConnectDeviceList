@@ -1,0 +1,12 @@
+[
+    {
+        "version": 1,
+        "uuid": "9cb4d576-05f9-4e8f-9045-0833d86fa2f8",
+        "name": "Amazing Testing Device",
+        "images": {
+            "big": {
+                "1000x1000": "https://img.fruugo.com/product/9/21/142387219_max.jpg"
+            }
+        }
+    }
+]
